@@ -1,0 +1,209 @@
+body {
+    background-color: #eae2b7;
+    font-family: serif;
+}
+
+
+* {
+    box-sizing: border-box;
+  }
+
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+
+  [class*="col-"] {
+    float: left;
+    padding: 15px;
+  }
+
+#tortenete {
+   position: absolute;
+   width: 500px;
+   top: 100px;
+   left: 700px;
+}
+
+.text {
+    background-color: #fcbf49;
+    font-size: 14.5pt;
+    text-align: center;
+    padding: 7px;
+}
+
+#elonyei {
+   position: absolute;
+   width: 450px;
+   top: 440px;
+   left: 725px;
+}
+
+#ismeretseg {
+    position: absolute;
+    width:600px;
+    top: 650px;
+}
+
+#kep1 {
+    position:absolute;
+    width: 440px;
+    border-radius: 20px;
+    top: 100px;
+  
+}
+#kep2 {
+    position:absolute;
+    width: 480px;
+    height: 330px;
+    border-radius: 50%;
+    top: 650px;
+    left: 720px;
+
+}
+
+#letoltes {
+    position: absolute;
+    background-color: rgb(194, 241, 85);
+    width: 450px;
+    top: 450px;
+}
+
+#kezdolap {
+    background-color: #ddb892;
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    top: 9px;
+    left: 10px;
+    padding: 5px;
+}
+
+#linus {
+    background-color: #ddb892;
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    top: 9px;
+    left: 200px;
+    padding: 5px;
+}
+
+#disztribuciok {
+    background-color: #ddb892;
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    top: 9px;
+    left: 400px;
+    padding: 5px;
+}
+#alap {
+  position: absolute;
+  width: 550px;
+  top: 100px;
+}
+
+#blackpanther {
+    position: absolute;
+    width: 500px;
+    top: 570px;
+    left: 700px;
+}
+
+#magyar {
+    background-color: #fcbf49;
+    position: absolute;
+    width: 400px;
+    height: 50px;
+    top: 500px;
+    padding: 5px;
+    left: 700px;
+    border-radius: 8px;
+   
+}
+#arch {
+   position: absolute;
+   width: 500px;
+   top: 840px;
+   
+}
+#kep3 {
+    position: absolute;
+    width: 600px;
+    top: 840px;
+    left: 670px;
+
+}
+#kep4 {
+    position: absolute;
+    width: 400px;
+    top: 400px;
+    left: 50px;
+
+} 
+#kep5{
+    position: absolute;
+    width: 300px;
+    top: 60px;
+    left: 750px;
+
+}
+
+/*2021.04.29. 22:17*/ 
+#linus1 {
+   position:absolute;
+   width: 600px;
+   top: 100px;
+}
+
+#level {   
+    position: absolute;
+    width: 650px;
+    top: 900px;
+    left: 350px;
+    border-radius: 15px;
+    background-color: whitesmoke;
+
+}
+
+#kep10 {
+    position: absolute;
+    width: 450px;
+    top: 120px;
+    left: 750px;
+
+}
+
+#kep11 {
+    position: absolute;
+    width: 500px;
+    top: 470px;
+    left: 60px;
+
+}
+
+#linus3 {   
+    position: absolute;
+    width: 600px;
+    top: 440px;
+    left: 700px;
+}
+
+#levelkep {
+    position: absolute;
+    top: 900px;
+    left: 350px;
+    width: 509px;
+}
+
+/* 2021.04.30. 10:27 */
+
